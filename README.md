@@ -9,9 +9,9 @@
 - 🎓 Background: Computer Science 
 - 🧠 Interests: AI, NLP, Building intelligent systems, Developing websites.  
 - ⚡ About me:
-- Proficient in building and fine-tuning deep learning models using frameworks like TensorFlow and PyTorch.
-- Developed and deployed Retrieval-Augmented Generation (RAG) pipelines to improve accuracy and reliability of LLM responses.
-- Passionate about applying Generative AI for real-world use cases like chatbots, knowledge assistants, and document intelligence.  
+  - Proficient in building and fine-tuning deep learning models using frameworks like TensorFlow and PyTorch.
+  - Developed and deployed Retrieval-Augmented Generation (RAG) pipelines to improve accuracy and reliability of LLM responses.
+  - Passionate about applying Generative AI for real-world use cases like chatbots, knowledge assistants, and document intelligence.  
 - 🤝 Open to collaborations on AI/ML research projects  
 - 📚 Always exploring new technologies and pushing projects to production  
 
