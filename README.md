@@ -31,7 +31,6 @@
 - 🙋‍♂️ **Personlized Assistant** → [https://github.com/venkatsai1718/personalizedchatbot]  
 - 🗻 **Mountains Blogs** → [https://github.com/venkatsai1718/mountainsblogsite]  
 - 🖥 **CPU Scheduling** → [https://github.com/venkatsai1718/cpu-scheduling]
-- 📄 **Youtube Video Q&A** → [https://github.com/venkatsai1718/youtube-video-qa]   
 - 🚘 **Car Price Prediction** → [https://github.com/venkatsai1718/car-price-prediction]  
 
 
