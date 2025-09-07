@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Venkat Sai  
 
 💻 **AI/ML Developer | Data Scientist | Backend Developer**  
-🔬 Passionate about building sites and building intelligent systems and solving real-world problems with data.  
+
+🔬 Completed my graduation in 2025 from IIIT KOTTAYAM major in CSE. Cleared GATE 2025 in CS and DA papers. Passionate about building sites and building intelligent systems and solving real-world problems with data.  
 
 ---
 
