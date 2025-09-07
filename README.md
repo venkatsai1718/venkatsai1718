@@ -2,7 +2,7 @@
 
 💻 **AI/ML Developer | Data Scientist | Backend Developer**  
 
-🔬 Completed my graduation in 2025 from IIIT KOTTAYAM major in CSE. Cleared GATE 2025 in CS and DA papers. Passionate about building sites and building intelligent systems and solving real-world problems with data.  
+🔬 Completed my graduation in 2025 from IIIT KOTTAYAM major in CSE. Cleared GATE 2025 in CS and DA papers. Passionate about building sites and building intelligent systems and solving real-world problems with data. Solved more than 400+ DSA promblems across platforms leetcode & gfg.
 
 ---
 
